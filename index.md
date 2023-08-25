@@ -5,5 +5,8 @@
 my_str = Hello world!
 print(my_str)
 ```
+- [ ] Fix bug
+- [ ] Update doc
+- [ ] Create tests
 
 ###### smallest header level
